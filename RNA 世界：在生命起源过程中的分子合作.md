@@ -1,6 +1,6 @@
 # RNA世界：生命起源过程中的分子合作
 
-翻译：Yshaolin   
+翻译：Yshaolin
 时间：2016.3.22
 
 * [摘要](#0)
@@ -14,6 +14,7 @@
 
 > **RNA世界**这个概念假定在早期地球上存在（大约40亿年前）一段以RNA或其类似物为主要生命物质的时期。在过去的50年里，这个观点从仅仅只是一种推测慢慢成为了一种主流观点。在本综述中，我们总结了隐藏在**RNA世界**背后的关键逻辑，并阐述了一些最近取得的支撑和拓展这个逻辑的成果。我们也讨论了**RNA世界**促进生命的出现和早期进化的分子合作方式。**RNA世界**的研究在不久的将来会是非常有活力的一个方向。
 
+> The RNA World concept posits that there was a period of time in the primitive Earth's history --about 4 billion years ago-- when the primary living substance was RNA or something chemically similar. In the past 50 years, this idea has gone from speculation to a prevailing idea. In this Review, we summarize that the key logic behind the RNA World and describe some of the most important recent advances that have been made to support and expand this logic. we also discuss the ways in which molecular cooperation involving RNAs would facilitate the emergence and early evolution of life. The immediate future of RNA World research should be a very dynamic one.
 <h2></h2>
 
 RNA世界是一个概念上的世界。在地球生命的早期存在一个以RNA或类似物承载绝大部分信息处理和新陈代谢转换的时期，这使得生物从化学物质得以诞生。这种情景（如果真的存在）发生在40亿年以前。相比之下，意识到RNA是生命起源好的候选者才不过50年。最早是Crick, Orgel等意识到RNA既具有遗传性又具有功能性，这有利于基于RNA的系统朝更加复杂化的以DNA-RNA-蛋白质为基础的现代生命系统进化。同时也让人意识到，现在被很多蛋白质利用的核苷酸辅酶很可能就是从基于RNA的代谢系统遗留下的分子“化石”。在20世纪八十年代发现了天然核酶的存在例如自剪接内含子、核糖核苷酸酶P，随着在核糖体中证实了是核糖体RNA催化了键的形成，RNA能作为催化剂得到了牢固确立。
